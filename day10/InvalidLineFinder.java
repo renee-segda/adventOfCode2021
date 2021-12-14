@@ -1,3 +1,5 @@
+package day10;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;

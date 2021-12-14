@@ -1,3 +1,5 @@
+package day9;
+
 public class HeightMapCoordinate {
         
     private int rowIndex;
